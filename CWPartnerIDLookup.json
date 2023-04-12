@@ -1,0 +1,44 @@
+[
+  {
+    "PartnerID": "CWP290301",
+    "EnterpriseID": "A2B",
+    "CompanyID": "SYD",
+    "ServerID": "TRN",
+    "eAdaptorInboundURL": "https://a2btrnservices.wisegrid.net/eAdaptor",
+    "User": "A2B",
+    "Password": "Hw7m3XhS",
+    "RecipientID": "LS2CW",
+    "TargetSystem": "CW",
+    "FTPHost": "52.237.220.122",
+    "FTPUser": "Test2",
+    "FTPPass": "test2pass"
+  },
+  {
+    "PartnerID": "CWP290302",
+    "EnterpriseID": "A2B",
+    "CompanyID": "SYD",
+    "ServerID": "TRN",
+    "eAdaptorInboundURL": "https://a2btrnservices.wisegrid.net/eAdaptor",
+    "User": "A2B",
+    "Password": "Hw7m3XhS",
+    "RecipientID": "LS2CW",
+    "TargetSystem": "FTP",
+    "FTPHost": "52.237.220.122",
+    "FTPUser": "Test2",
+    "FTPPass": "test2pass"
+  },
+  {
+    "PartnerID": "CWP290303",
+    "EnterpriseID": "A2B",
+    "CompanyID": "SYD",
+    "ServerID": "TRN",
+    "eAdaptorInboundURL": "https://a2btrnservices.wisegrid.net/eAdaptor",
+    "User": "A2B",
+    "Password": "Hw7m3XhS",
+    "RecipientID": "LS2CW",
+    "TargetSystem": "CW",
+    "FTPHost": "52.237.220.122",
+    "FTPUser": "Test2",
+    "FTPPass": "test2pass"
+  }
+]
